@@ -2,3 +2,5 @@
 Release
 1.1
 Fixed Esp
+1.1(Pre-Release)
+Removed broken functions
