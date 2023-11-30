@@ -1,7 +1,6 @@
-<h1 align="center" id="title">⛔ 1337WARE ⛔</h1>
 <h1 align="center">
   <img src="https://i.imgur.com/XRVSJqN.png" alt="icon" style="width: 100px; height: 100px"><br>
-  AimStar
+  1337WARE
 </h1>
 
 <p id="description">Free and open-source external cheat for CS2 written in RUST Has ESP, AIMBOT, TRIGGERBOT</p>
