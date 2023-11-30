@@ -4,9 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/XRVSJqN.png" alt="project-screenshot" width="600" height="100/">
-
 <img src="https://i.imgur.com/eBNo9FC.jpg" alt="project-screenshot" width="800" height="400/">
+
+<img src="https://i.imgur.com/XRVSJqN.png" alt="project-screenshot" width="800" height="100/">
 
 <img src="https://i.imgur.com/vrHTqh1.jpg" alt="project-screenshot" width="800" height="400/">
 
