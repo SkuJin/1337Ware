@@ -1,6 +1,6 @@
-<h1 align="center" id="title">⛔ 1337WARE ⛔ Free and open-source external cheat for CS2 written in RUST Has ESP, AIMBOT, TRIGGERBOT</h1>
+<h1 align="center" id="title">⛔ 1337WARE ⛔</h1>
 
-<p id="description">Free external for CS2</p>
+<p id="description">Free and open-source external cheat for CS2 written in RUST Has ESP, AIMBOT, TRIGGERBOT</p>
 
 <h2>Project Screenshots:</h2>
 
