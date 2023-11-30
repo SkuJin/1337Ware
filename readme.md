@@ -3,5 +3,5 @@
 Free and open-source external cheat for CS2, written in RUST
 <summary>Has ESP,AIMBOT,TRIGGERBOT and etc.</summary>
 
-<summary>**Isnt working?** -> [**__BETTER CALL SAUL__**](https://t.me/OneThreeThreeSevenWare_bot)</summary>
+**Isnt working?** -> [**__BETTER CALL SAUL__**](https://t.me/OneThreeThreeSevenWare_bot)
 </h4>
