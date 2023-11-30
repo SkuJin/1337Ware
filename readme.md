@@ -1,5 +1,6 @@
 <h1 align="center" id="title">⛔ 1337WARE ⛔</h1>
-<h1 align="center">img src="https://i.imgur.com/XRVSJqN.png" alt="project-screenshot" width="800" height="100/"></h1>
+<p class="fig"><img src="https://i.imgur.com/XRVSJqN.png" 
+  width="200" height="200" alt="whocares"></p>
 
 <p id="description">Free and open-source external cheat for CS2 written in RUST Has ESP, AIMBOT, TRIGGERBOT</p>
 
@@ -7,8 +8,6 @@
 
 
 <img src="https://i.imgur.com/eBNo9FC.jpg" alt="project-screenshot" width="800" height="400/">
-
-<img src="https://i.imgur.com/XRVSJqN.png" alt="project-screenshot" width="800" height="100/">
 
 <img src="https://i.imgur.com/vrHTqh1.jpg" alt="project-screenshot" width="800" height="400/">
 
