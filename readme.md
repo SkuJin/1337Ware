@@ -1,14 +1,12 @@
-<h1 align="center" id="title">⛔ 1337WARE ⛔ Free and open-source external cheat for CS2 written in RUST Has ESPAIMBOTTRIGGERBOT</h1>
-
-<p align="center"><img src="https://github.com/SkuJin/1337Ware/" alt="project-image"></p>
+<h1 align="center" id="title">⛔ 1337WARE ⛔ Free and open-source external cheat for CS2 written in RUST Has ESP, AIMBOT, TRIGGERBOT</h1>
 
 <p id="description">Free external for CS2</p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/eBNo9FC.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/eBNo9FC.jpg" alt="project-screenshot" width="400" height="800/">
 
-<img src="https://i.imgur.com/vrHTqh1.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/vrHTqh1.jpg" alt="project-screenshot" width="400" height="800/">
 
 <h2>🛠️ Installation Steps:</h2>
 
