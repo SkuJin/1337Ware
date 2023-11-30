@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/XRVSJqN.png" alt="icon" style="width: 100px; height: 100px"><br>
+  <img src="https://i.imgur.com/XRVSJqN.png" alt="icon" style="width: 320px; height: 320px"><br>
   1337WARE
 </h1>
 
