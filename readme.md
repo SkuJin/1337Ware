@@ -20,10 +20,6 @@
 
 <p>5. Enjoy the game!</p>
 
-<h2>🍰 Contribution Guidelines:</h2>
-
-bla bla bla
-
-<h2>💖Like my work?</h2>
+<h2>💖 Need Help?</h2>
 
 For help or bugs: https://github.com/SkuJin/1337Ware/releases
